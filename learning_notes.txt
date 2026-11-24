@@ -8,3 +8,6 @@ Learning:
 
 4. git push
 
+
+Note: this is the finally added note in the original file
+
